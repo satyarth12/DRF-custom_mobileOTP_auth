@@ -1,0 +1,7 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+April 26, 2021 - 03:45:19
+Django version 3.2, using settings 'OTP_auth.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
